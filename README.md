@@ -4,7 +4,7 @@
 
 A full-scale e-commerce marketplace connecting African artists, sculptors, photographers, and textile makers with global luxury buyers. Built as a complete full-stack product with artist portals, collector accounts, a commission engine, and a comprehensive admin operations centre.
 
-🔗 **[View Live Site](https://buni-atelier.onrender.com)**
+🔗 **[View Live Site](https://buni-atelier-0ute.onrender.com)**
 
 ---
 
